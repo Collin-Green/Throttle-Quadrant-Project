@@ -8,5 +8,7 @@ The project uses a potentiometer and a simple voltage divider to create the thro
 There are also buttons that are used for utility purposes as well as an analog stick breakout board as a slew stick.
 
 Problems with mechanical assembly:
+
 Getting a handle to stay on the potentiometer (hot glue won't stick to the metal on the pot.)
+
 Keeping the throttle from sliding while moving the thottle (use sticky pads and weights to rememdy this issue)
